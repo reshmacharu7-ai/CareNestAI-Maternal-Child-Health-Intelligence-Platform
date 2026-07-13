@@ -22,9 +22,9 @@ from utils.ui import apply_accessibility_mode, load_css
 
 st.set_page_config(
     page_title="CareNest AI",
-    page_icon="🤰",
+    page_icon="🌸",
     layout="wide",
-    initial_sidebar_state="collapsed",
+    initial_sidebar_state="expanded"
 )
 
 

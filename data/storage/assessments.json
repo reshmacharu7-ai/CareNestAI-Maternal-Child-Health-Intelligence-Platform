@@ -90,5 +90,47 @@
     "sugar_mg_dl": 95,
     "hemoglobin": 11.5,
     "symptoms": []
+  },
+  {
+    "id": "A005",
+    "mother_id": "M001",
+    "date": "2026-07-13",
+    "week": 28,
+    "recorded_by": "Self (Pregnant Woman)",
+    "risk_score": 0.0,
+    "risk_level": "Low",
+    "risk_factors": [
+      "All tracked vitals are within healthy ranges for this stage of pregnancy."
+    ],
+    "recommendation": "Vitals look healthy for this stage of pregnancy. Continue routine ANC visits.",
+    "referral_urgency": "Routine",
+    "systolic": 118,
+    "diastolic": 76,
+    "weight_kg": 58.0,
+    "height_cm": 158.0,
+    "sugar_mg_dl": 95,
+    "hemoglobin": 11.5,
+    "symptoms": []
+  },
+  {
+    "id": "A006",
+    "mother_id": "M001",
+    "date": "2026-07-13",
+    "week": 28,
+    "recorded_by": "ASHA Worker",
+    "risk_score": 0.0,
+    "risk_level": "Low",
+    "risk_factors": [
+      "All tracked vitals are within healthy ranges for this stage of pregnancy."
+    ],
+    "recommendation": "Vitals look healthy for this stage of pregnancy. Continue routine ANC visits.",
+    "referral_urgency": "Routine",
+    "systolic": 118,
+    "diastolic": 76,
+    "weight_kg": 58.0,
+    "height_cm": 158.0,
+    "sugar_mg_dl": 95,
+    "hemoglobin": 11.5,
+    "symptoms": []
   }
 ]

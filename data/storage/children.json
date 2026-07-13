@@ -6,5 +6,13 @@
     "gender": "Male",
     "dob": "2026-03-23",
     "birth_weight_kg": 2.9
+  },
+  {
+    "id": "C002",
+    "mother_id": "M001",
+    "name": "a",
+    "gender": "Female",
+    "dob": "2026-07-13",
+    "birth_weight_kg": 3.0
   }
 ]
