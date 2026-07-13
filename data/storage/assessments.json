@@ -1,0 +1,94 @@
+[
+  {
+    "id": "A001",
+    "mother_id": "M001",
+    "date": "2026-07-06",
+    "week": 27,
+    "systolic": 118,
+    "diastolic": 76,
+    "sugar_mg_dl": 92,
+    "hemoglobin": 11.4,
+    "weight_kg": 58,
+    "height_cm": 158,
+    "symptoms": [],
+    "recorded_by": "ASHA Worker",
+    "risk_score": 12.0,
+    "risk_level": "Low",
+    "risk_factors": [
+      "All tracked vitals are within healthy ranges for this stage of pregnancy."
+    ],
+    "recommendation": "Continue routine ANC visits and iron-folic acid supplementation."
+  },
+  {
+    "id": "A002",
+    "mother_id": "M002",
+    "date": "2026-07-11",
+    "week": 32,
+    "systolic": 148,
+    "diastolic": 96,
+    "sugar_mg_dl": 168,
+    "hemoglobin": 8.9,
+    "weight_kg": 61,
+    "height_cm": 152,
+    "symptoms": [
+      "Swelling in hands/face",
+      "Severe headache"
+    ],
+    "recorded_by": "ASHA Worker",
+    "risk_score": 78.0,
+    "risk_level": "High",
+    "risk_factors": [
+      "Systolic BP 148 mmHg is above the safe pregnancy range (<140 mmHg) \u2014 possible pre-eclampsia.",
+      "Diastolic BP 96 mmHg is above the safe range (<90 mmHg).",
+      "Blood sugar 168 mg/dL suggests possible gestational diabetes.",
+      "Hemoglobin 8.9 g/dL indicates moderate anemia.",
+      "Reported symptom 'Swelling in hands/face' can indicate pre-eclampsia.",
+      "Reported symptom 'Severe headache' can indicate pre-eclampsia.",
+      "History of a previous miscarriage raises overall pregnancy risk."
+    ],
+    "recommendation": "Refer to the Primary Health Centre / District Hospital promptly for BP and glucose management."
+  },
+  {
+    "id": "A003",
+    "mother_id": "M003",
+    "date": "2026-07-03",
+    "week": 11,
+    "systolic": 110,
+    "diastolic": 70,
+    "sugar_mg_dl": 88,
+    "hemoglobin": 12.1,
+    "weight_kg": 54,
+    "height_cm": 160,
+    "symptoms": [
+      "Mild nausea"
+    ],
+    "recorded_by": "ASHA Worker",
+    "risk_score": 6.0,
+    "risk_level": "Low",
+    "risk_factors": [
+      "All tracked vitals are within healthy ranges for this stage of pregnancy."
+    ],
+    "recommendation": "Routine first-trimester care; mild nausea is common and self-limiting."
+  },
+  {
+    "id": "A004",
+    "mother_id": "M001",
+    "date": "2026-07-13",
+    "week": 28,
+    "recorded_by": "ASHA Worker",
+    "risk_score": 0.0,
+    "risk_level": "Low",
+    "risk_factors": [
+      "All tracked vitals are within healthy ranges for this stage of pregnancy."
+    ],
+    "recommendation": "Vitals look healthy for this stage of pregnancy. Continue routine ANC visits.",
+    "referral_urgency": "Routine",
+    "systolic": 118,
+    "diastolic": 76,
+    "weight_kg": 58.0,
+    "height_cm": 158.0,
+    "sugar_mg_dl": 95,
+    "hemoglobin": 11.5,
+    "symptoms": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "AL001",
+    "mother_id": "M002",
+    "level": "High",
+    "message": "Fathima Beevi flagged HIGH risk: elevated BP, high blood sugar, low hemoglobin, pre-eclampsia symptoms.",
+    "target_roles": [
+      "asha",
+      "doctor",
+      "phc"
+    ],
+    "created_at": "2026-07-11",
+    "acknowledged": false
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "M001",
+    "name": "Lakshmi Devi",
+    "age": 24,
+    "village": "Erumaiyur",
+    "phone": "9876500001",
+    "gravida": 2,
+    "previous_miscarriage": false,
+    "lmp": "2025-12-29",
+    "status": "pregnant",
+    "asha_id": "ASHA01",
+    "doctor_id": "DOC01",
+    "created_at": "2026-02-23"
+  },
+  {
+    "id": "M002",
+    "name": "Fathima Beevi",
+    "age": 32,
+    "village": "Erumaiyur",
+    "phone": "9876500002",
+    "gravida": 3,
+    "previous_miscarriage": true,
+    "lmp": "2025-11-24",
+    "status": "pregnant",
+    "asha_id": "ASHA01",
+    "doctor_id": "DOC01",
+    "created_at": "2026-01-14"
+  },
+  {
+    "id": "M003",
+    "name": "Priya Ramesh",
+    "age": 27,
+    "village": "Erumaiyur",
+    "phone": "9876500003",
+    "gravida": 1,
+    "previous_miscarriage": false,
+    "lmp": "2026-04-20",
+    "status": "pregnant",
+    "asha_id": "ASHA01",
+    "doctor_id": "DOC01",
+    "created_at": "2026-05-14"
+  },
+  {
+    "id": "M004",
+    "name": "Kavitha Selvam",
+    "age": 29,
+    "village": "Erumaiyur",
+    "phone": "9876500004",
+    "gravida": 2,
+    "previous_miscarriage": false,
+    "lmp": "2025-07-14",
+    "status": "postpartum",
+    "asha_id": "ASHA01",
+    "doctor_id": "DOC01",
+    "created_at": "2025-09-16"
+  }
+]

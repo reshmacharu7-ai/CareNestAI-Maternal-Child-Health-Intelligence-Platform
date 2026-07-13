@@ -1,0 +1,5 @@
+streamlit==1.38.0
+plotly==5.23.0
+reportlab==4.2.2
+groq==0.31.0
+python-dotenv==1.0.1

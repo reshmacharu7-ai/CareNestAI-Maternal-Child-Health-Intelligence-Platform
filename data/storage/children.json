@@ -1,0 +1,10 @@
+[
+  {
+    "id": "C001",
+    "mother_id": "M004",
+    "name": "Baby Arun",
+    "gender": "Male",
+    "dob": "2026-03-23",
+    "birth_weight_kg": 2.9
+  }
+]
